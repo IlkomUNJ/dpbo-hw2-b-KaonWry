@@ -5,7 +5,6 @@
 #include <map>
 #include <algorithm>
 #include <cctype>
-
 #include "repo/bank.h"
 #include "repo/buyer.h"
 #include "repo/seller.h"
